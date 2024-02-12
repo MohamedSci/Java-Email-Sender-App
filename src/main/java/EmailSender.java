@@ -11,7 +11,7 @@ public class EmailSender {
 	public static void main(String[] args) throws InterruptedException {
 		// Sender's email address and password
 		String senderEmail = "muhammedsaidsyed215@gmail.com";
-		String password = "rogc gojz mwfj exjc"; // Update with your password
+		String password = "${{secrets.App_Password}}"; // Update with your password
 		String path_to_pdf_file = "C:\\Users\\moham\\eclipse-workspace\\Send_many_emails\\mohamed_said_software_testing.pdf";
 		String email_list_csv = "C:\\Users\\moham\\eclipse-workspace\\Send_many_emails\\Company_Emails_UAE.csv";
 		String message_text = "C:\\Users\\moham\\eclipse-workspace\\Send_many_emails\\message.txt";
