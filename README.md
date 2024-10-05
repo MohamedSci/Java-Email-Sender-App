@@ -166,3 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to fork the repository, submit issues, or make a pull request if you'd like to improve the project!
 
+
+## [Buy me a Coffee☕](<https://ko-fi.com/mohamedsaidibrahim>)
+
+If you enjoy this content and want to support me, feel free to [buy me a coffee](<https://ko-fi.com/mohamedsaidibrahim>)
